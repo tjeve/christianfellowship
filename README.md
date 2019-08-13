@@ -22,3 +22,8 @@ Menu
 - Who We Are
 - Give
 - Events
+
+Useful Templates:
+https://cfmbc.com/
+
+https://hopecity.com/

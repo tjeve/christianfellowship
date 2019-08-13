@@ -1,0 +1,10 @@
+body {
+    display: flex;
+    flex-direction: column;
+}
+
+
+.h1 {
+    background-color: #85C878;
+    color: white;
+}
