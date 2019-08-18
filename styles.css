@@ -2,9 +2,80 @@ body {
     display: flex;
     flex-direction: column;
 }
-
-
 h1 {
-    background-color: #85C878;
+    /* background-color: #85C878;
+    color: white; */
+}
+.top {
+    background-image: url("cfpics/o1WCG28-bible-wallpaper.jpg");
+    background-size: 100%;
+    width: 100%;
+    text-align: center;
+    padding-top: 20%;
+    padding-bottom: 20%;
+}
+.banner {
     color: white;
+    justify-content: center;
+    text-align: center;
+}
+.big {
+    font-size: 200%;
+    padding-bottom: 20px;
+}
+.banner .small {
+    padding-top: 20px;
+}
+.service-times {
+    padding-top: 20px;
+    text-align: center;
+    justify-content: center;
+}
+/* navigation */
+.navbar-light {
+    color: green;
+}
+/* Carousel */
+#carousel {
+    width: flex 80%;
+    justify-content: center;
+}
+.collapse {
+    justify-content: flex-end;
+}
+.carousel-inner {
+    width: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.carousel-item {
+    width: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.carousel-image {
+    height: 25rem;
+    justify-content: center;
+    margin: auto;
+}
+.phrase {
+    text-align: center;
+    background-color: #85C878;
+}
+.information {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+.service-times {
+    align-items: center;
+
+}
+.address {
+    justify-content: center;
+}
+.image {
+    margin-bottom: 20px;
 }
