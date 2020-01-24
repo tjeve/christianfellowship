@@ -1,5 +1,7 @@
 Website needs:
 
+To Add:
+
 First page:
 - Motto: Love God, Love People, Make a Difference. We are the Church that cares.
 - first page needs to have churches name, address, and time of service (worship times)
